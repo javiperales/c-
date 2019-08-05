@@ -1,0 +1,11 @@
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\bin\Debug\netcoreapp2.1\primerproyecto.deps.json
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\bin\Debug\netcoreapp2.1\primerproyecto.runtimeconfig.json
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\bin\Debug\netcoreapp2.1\primerproyecto.runtimeconfig.dev.json
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\bin\Debug\netcoreapp2.1\primerproyecto.dll
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\bin\Debug\netcoreapp2.1\primerproyecto.pdb
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\obj\Debug\netcoreapp2.1\primerproyecto.csprojAssemblyReference.cache
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\obj\Debug\netcoreapp2.1\primerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\obj\Debug\netcoreapp2.1\primerproyecto.AssemblyInfoInputs.cache
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\obj\Debug\netcoreapp2.1\primerproyecto.AssemblyInfo.cs
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\obj\Debug\netcoreapp2.1\primerproyecto.dll
+C:\Users\javi\Desktop\c#\primerproyecto\primerproyecto\obj\Debug\netcoreapp2.1\primerproyecto.pdb
