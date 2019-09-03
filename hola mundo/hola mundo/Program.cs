@@ -6,7 +6,15 @@ namespace hola_mundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double temperatura = 34.5;
+            int temperaturaZgz;
+
+            temperaturaZgz = (int)temperatura; //casting
+
+            Console.WriteLine(temperaturaZgz);
+
+
+
         }
     }
 }
